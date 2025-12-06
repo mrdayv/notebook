@@ -1,9 +1,3 @@
-I always have my journal with me everywhere I go but I thought I could make something that will store my thoughts, ideas, things that I did or have to do on my computer while working on it.
-
-
-
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
